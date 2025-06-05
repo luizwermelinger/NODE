@@ -1,0 +1,30 @@
+Passo 1 = Instalar o node.js => https://nodejs.org/pt
+Passo 2 = Instalar o Express => https://www.npmjs.com/package/express
+Passo 3 = npm init ou npm init -y
+Passo 4 = npm i express
+Passo 5 = Criar um arquivo "server.js"
+
+
+
+
+Notas de Rodapé:
+
+i = Install
+npm = Gerenciador de pacotes do node.js
+express => Bibliotéca 
+
+get = listar ...
+patch = editar um ...
+post = criar um ...
+put = editar um ...
+delete = excluir um ...
+
+req = requisição
+res = resposta
+
+Abrir terminal no vscode => ctrl+j
+Iniciar projeto => npm init
+Limpar terminal => clear
+Ligar servidor => node server.js
+Parar servidor => ctrl+c
+Atualizar servidor => node --watch server.js
